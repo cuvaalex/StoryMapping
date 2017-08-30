@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EmacsSettings">
+    <option name="emacsPath" value="/usr/bin/emacs" />
+  </component>
+  <component name="JSLintConfiguration">
+    <option maxerr="50" />
+    <option node="true" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="alex" />
+  </component>
+  <component name="RebarSettings">
+    <rebarPath>$USER_HOME$/Finix/Pet/ConferenceEngine/rebar</rebarPath>
+  </component>
+  <component name="TypeScriptCompiler">
+    <option name="isCompilerEnabled" value="true" />
+    <option name="useConfig" value="true" />
+  </component>
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+</project>
